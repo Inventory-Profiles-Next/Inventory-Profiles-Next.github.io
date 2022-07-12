@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>.</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/"/>
+         
+    </url>
+    <url>
+         <loc>changelog/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/changelog/"/>
+         
+    </url>
+    <url>
+         <loc>contributing/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/contributing/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/contributing/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/contributing/"/>
+         
+    </url>
+    <url>
+         <loc>custom-rules/add/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/custom-rules/add/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/custom-rules/add/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/custom-rules/add/"/>
+         
+    </url>
+    <url>
+         <loc>custom-rules/natives/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/custom-rules/natives/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/custom-rules/natives/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/custom-rules/natives/"/>
+         
+    </url>
+    <url>
+         <loc>downloads/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/downloads/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/downloads/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/downloads/"/>
+         
+    </url>
+    <url>
+         <loc>installation/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/installation/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/"/>
+         
+    </url>
+    <url>
+         <loc>known-issues/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/known-issues/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/known-issues/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/known-issues/"/>
+         
+    </url>
+    <url>
+         <loc>license/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/license/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/license/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/license/"/>
+         
+    </url>
+    <url>
+         <loc>profiles/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/profiles/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/profiles/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/profiles/"/>
+         
+    </url>
+    <url>
+         <loc>thanks/</loc>
+         <lastmod>2022-07-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/thanks/"/>
+         <xhtml:link rel="alternate" hreflang="eo" href="eo/thanks/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/thanks/"/>
+         
+    </url>
+</urlset>
